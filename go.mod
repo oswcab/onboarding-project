@@ -1,3 +1,3 @@
-module gitlab.cee.redhat.com/hares/some-project-prd-p02
+module onboarding
 
-go 1.21
+go 1.24
