@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/go-toolset:1.24.6-1758501173 as builder
+FROM registry.access.redhat.com/ubi9/go-toolset:9.6-1758501173 as builder
 
 # Copy the Go Modules manifests
 COPY go.mod go.mod
